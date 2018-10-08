@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="88dp">
+
+    <ImageView
+        android:id="@+id/place_image_view"
+        style="@style/MyImageListItem"
+        tools:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/place_image_view"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/MyNameListItem"
+            android:layout_toRightOf="@id/place_image_view"
+            tools:text="Name" />
+
+        <TextView
+            android:id="@+id/location_text_view"
+            style="@style/MyLocationListItem"
+            android:layout_below="@id/name_text_view"
+            android:layout_toRightOf="@id/place_image_view"
+            tools:text="Location" />
+
+        <TextView
+            android:id="@+id/timings_text_view"
+            style="@style/MyTimingsListItem"
+            android:layout_below="@id/location_text_view"
+            android:layout_toRightOf="@id/place_image_view"
+            tools:text="Timings" />
+    </LinearLayout>
+</RelativeLayout>

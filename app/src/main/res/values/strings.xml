@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Tour of Islamabad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Strings for the MustSee Fragment-->
+    <string name="mustsee_name_one">Daman-e-Koh</string>
+    <string name="mustsee_location_one">Margalla Hills</string>
+    <string name="mustsee_time_one">Open from: 11:00 en dash 18:00</string>
+
+    <string name="mustsee_name_two">Pir Sohawa</string>
+    <string name="mustsee_location_two">Margalla Hills</string>
+    <string name="mustsee_time_two">Open from: 11:00 - 8:00</string>
+
+    <string name="mustsee_name_three">Lok Virsa Museum</string>
+    <string name="mustsee_location_three">Sector I-8</string>
+    <string name="mustsee_time_three">Open from: 11:00 - 18:00</string>
+
+    <string name="mustsee_name_four">Pakistan Monument</string>
+    <string name="mustsee_location_four">Shakarparian</string>
+    <string name="mustsee_time_four">Open from: 11:00-18:00</string>
+
+    <string name="mustsee_name_five">Khanpur Dam</string>
+    <string name="mustsee_location_five">Taxila</string>
+    <string name="mustsee_time_five">Open from: 11:00 - 18:00</string>
+
+    <string name="mustsee_name_six">Trail 3</string>
+    <string name="mustsee_location_six">Margalla Hills</string>
+    <string name="mustsee_time_six">Open from: 11:00 - 18:00</string>
+
+    <string name="mustsee_name_seven">Natural History</string>
+    <string name="mustsee_location_seven">Sector I-8</string>
+    <string name="mustsee_time_seven">Open from: 11:00 - 18:00</string>
+
+    <string name="mustsee_name_eight">Saidpur Village</string>
+    <string name="mustsee_location_eight">Margalla Hills</string>
+    <string name="mustsee_time_eight">Open from: 11:00 - 18:00</string>
+
+    <!-- Strings for the Parks Fragment-->
+    <string name="parks_name_one">Japanese Park</string>
+    <string name="parks_location_one">Sector F-6</string>
+    <string name="parks_time_one">Open from: 11:00 - 18:00</string>
+
+    <string name="parks_name_two">F-9 Park</string>
+    <string name="parks_location_two">Sector F-9</string>
+    <string name="parks_time_two">Open from: 11:00 - 18:00</string>
+
+    <string name="parks_name_three">Ayub Park</string>
+    <string name="parks_location_three">Rawalpindi</string>
+    <string name="parks_time_three">Open from: 11:00 - 18:00</string>
+
+    <string name="parks_name_four">Lake View Park</string>
+    <string name="parks_location_four">Rawal Lake</string>
+    <string name="parks_time_four">Open from: 11:00 - 18:00</string>
+
+    <string name="parks_name_five">Rose and Jasmine</string>
+    <string name="parks_location_five">Kashmir Highway</string>
+    <string name="parks_time_five">Open from: 11:00 - 18:00</string>
+
+    <string name="parks_name_six">Jinnah Park</string>
+    <string name="parks_location_six">Rawalpindi</string>
+    <string name="parks_time_six">Open from: 11:00 - 18:00</string>
+
+    <!--Strings for the Restaurants Fragment-->
+    <string name="restaurants_name_one">1969</string>
+    <string name="restaurants_location_one">Sector I-6</string>
+    <string name="restaurants_time_one">Open from: 11:00 - 18:00</string>
+
+    <string name="restaurants_name_two">Cafe Roof Top</string>
+    <string name="restaurants_location_two">Sector F-7</string>
+    <string name="restaurants_time_two">Open from: 11:00 - 18:00</string>
+
+    <string name="restaurants_name_three">Chaye Khana</string>
+    <string name="restaurants_location_three">Sector F-6</string>
+    <string name="restaurants_time_three">Open from: 11:00 - 18:00</string>
+
+    <string name="restaurants_name_four">Coffee Planet</string>
+    <string name="restaurants_location_four">Sector F-6</string>
+    <string name="restaurants_time_four">Open from: 11:00 - 18:00</string>
+
+    <string name="restaurants_name_five">Urban Lounge</string>
+    <string name="restaurants_location_five">Sector F-10</string>
+    <string name="restaurants_time_five">Open from: 11:00 - 18:00</string>
+
+    <string name="restaurants_name_six">Turkish Grill</string>
+    <string name="restaurants_location_six">Sector F-9</string>
+    <string name="restaurants_time_six">Open from: 11:00 - 18:00</string>
+
+    <string name="restaurants_name_seven">Jungle Spot</string>
+    <string name="restaurants_location_seven">Rawalpindi</string>
+    <string name="restaurants_time_seven">Open from: 11:00 - 18:00</string>
+
+    <string name="restaurants_name_eight">Rakaposhi</string>
+    <string name="restaurants_location_eight">Margalla Hills</string>
+    <string name="restaurants_time_eight">Open from: 11:00 - 18:00</string>
+
+    <!-- Strings for Shopping Fragment-->
+    <string name="shopping_name_one">Centaurus</string>
+    <string name="shopping_location_one">Blue Area</string>
+    <string name="shopping_time_one">Open from: 11:00 - 18:00</string>
+
+    <string name="shopping_name_two">Jinnah Super</string>
+    <string name="shopping_location_two">F-7 markaz</string>
+    <string name="shopping_time_two">Open from: 11:00 - 18:00</string>
+
+    <string name="shopping_name_three">Super Market</string>
+    <string name="shopping_location_three">F-6 markaz</string>
+    <string name="shopping_time_three">Open from: 11:00 - 18:00</string>
+
+    <string name="shopping_name_four">Safa Gold Mall</string>
+    <string name="shopping_location_four">F-6 markaz</string>
+    <string name="shopping_time_four">Open from: 11:00 - 18:00</string>
+
+    <string name="shopping_name_five">Giga Mall</string>
+    <string name="shopping_location_five">F-6 markaz</string>
+    <string name="shopping_time_five">Open from: 11:00 - 18:00</string>
+
+    <!-- Tab labels-->
+    <string name="category_mustsee">must see</string>
+    <string name="category_parks">parks</string>
+    <string name="category_restaurants">restaurants</string>
+    <string name="category_shopping">shopping</string>
+
+</resources>
